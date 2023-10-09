@@ -35,7 +35,7 @@ $continue = $true
 while ($continue -eq $true) {
     $i++
     $skip = ($i - 1) * 100
-    Write-Output "Getting channels $skip - $($skip + 100)"
+    Write-Output "Getting channels $skip - $($skip + 100) - $($stopwatch.ElapsedMilliseconds / 1000 / 60) minutes elapsed."
     $queryOptions = @{
         Method     = "GET"
         URI        = "https://$region.api.microsoftstream.com/api/channels?NoSignUpCheck=1&`$top=100&`$orderby=metrics%2Fvideos%20desc&`$expand=creator,group&api-version=1.3-private&`$skip=$skip"
@@ -48,6 +48,26 @@ while ($continue -eq $true) {
     }
     catch {
         Write-Output $_.exception.message
+
+        ## Do we need to pause and upate the cookies?
+        ## Pause the execution
+        Write-host " -----------------------------------------" -ForegroundColor DarkGreen
+        Write-Host "Pausing as we recieved an error - Probably time to refresh the cookies"
+        Write-Host "Update the cookies.csv file with new cookies"
+        Read-Host -Prompt "Press Enter to continue ...."
+
+        $cookies = Import-CSV $cookiesCSVFilePath
+        
+        foreach ($cookie in $cookies) {
+            $oldCookie = $WebSession.Cookies.GetAllCookies() | Where-Object { $_.Name -eq $cookie.Name }
+            $oldCookie.Value = $cookie.Value
+        }
+
+        ## Decrement as we want to retry the same request
+        $i--
+
+        Write-Host "Cookie values uppdated - Resuming execution" -ForegroundColor DarkGreen
+        continue
     }
 
     if ($channelResult.value.length -eq 0) {
@@ -79,28 +99,28 @@ while ($continue -eq $true) {
     }
 
     ## Do we need to pause and upate the cookies?
-    if ($stopwatch.ElapsedMilliseconds -gt $pauseDurationMilliseconds)
-    {
-        ## Pause the execution
-        Write-host " -----------------------------------------" -ForegroundColor DarkGreen
-        Write-Host "Pausing as $resfreshTimeOutMins minutes have elapsed - Time to refresh the cookies"
-        Write-Host "Update the cookies.csv file with new cookies"
-        Read-Host -Prompt "Press Enter to continue ...."
+    # if ($stopwatch.ElapsedMilliseconds -gt $pauseDurationMilliseconds)
+    # {
+    #     ## Pause the execution
+    #     Write-host " -----------------------------------------" -ForegroundColor DarkGreen
+    #     Write-Host "Pausing as $resfreshTimeOutMins minutes have elapsed - Time to refresh the cookies"
+    #     Write-Host "Update the cookies.csv file with new cookies"
+    #     Read-Host -Prompt "Press Enter to continue ...."
 
-        ## Read the cookies again
-        $cookies = Import-CSV $cookiesCSVFilePath
+    #     ## Read the cookies again
+    #     $cookies = Import-CSV $cookiesCSVFilePath
         
-        foreach ($cookie in $cookies) {
-            $oldCookie = $WebSession.Cookies.GetAllCookies() | Where-Object { $_.Name -eq $cookie.Name }
-            $oldCookie.Value = $cookie.Value
-        }
+    #     foreach ($cookie in $cookies) {
+    #         $oldCookie = $WebSession.Cookies.GetAllCookies() | Where-Object { $_.Name -eq $cookie.Name }
+    #         $oldCookie.Value = $cookie.Value
+    #     }
 
-        Write-Host "Cookie values uppdated - Resuming execution" -ForegroundColor DarkGreen
+    #     Write-Host "Cookie values uppdated - Resuming execution" -ForegroundColor DarkGreen
 
-        ## Reset the stopwatch
-        $stopwatch.Reset()
-        $stopwatch.Start()
-    }
+    #     ## Reset the stopwatch
+    #     $stopwatch.Reset()
+    #     $stopwatch.Start()
+    # }
 }
 
 $channelList | Export-CSV -NoTypeInformation $outputCSVFilePath
