@@ -1,0 +1,2587 @@
+{
+    "value": [
+        {
+            "id": "43f01dd9-fe70-43c7-9516-1504972c0b81",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-10-05T17:43:06.540854Z",
+            "modified": "2021-10-05T17:43:06.540854Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "43f01dd9-fe70-43c7-9516-1504972c0b81",
+                "name": "G_AAD_B2BTest",
+                "description": "G_AAD_B2BTest",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-10-05T17:43:06.540854Z",
+                "modified": "2021-10-05T17:43:06.540854Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/43f01dd9-fe70-43c7-9516-1504972c0b81/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_b2btest@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_b2btest",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "f32af923-5e9a-4e5c-a54a-15c3cfe6cc26",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-10-05T12:52:31.2832599Z",
+            "modified": "2022-10-05T12:52:31.2832599Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "f32af923-5e9a-4e5c-a54a-15c3cfe6cc26",
+                "name": "TestMessage1",
+                "description": "TestMessage1",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-10-05T12:52:31.2832599Z",
+                "modified": "2022-10-05T12:52:31.2832599Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/f32af923-5e9a-4e5c-a54a-15c3cfe6cc26/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "testmessage1@bp365testgrp.bp.com",
+                    "mailAlias": "testmessage1",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "ed73ac42-8a70-48a2-8bc2-1ba6e8b2dada",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-07-24T11:55:20.3776418Z",
+            "modified": "2020-07-24T11:55:20.3776418Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "ed73ac42-8a70-48a2-8bc2-1ba6e8b2dada",
+                "name": "G O365 ExO Licensing_test",
+                "description": "EXO Group",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-07-24T11:55:20.3776418Z",
+                "modified": "2021-04-14T19:35:59.680659Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/ed73ac42-8a70-48a2-8bc2-1ba6e8b2dada/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "exogroup@bp365testgrp.bp.com",
+                    "mailAlias": "exogroup",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "6e4e397b-c516-4eb3-8643-1beb4bcdab8e",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:29:47.2261697Z",
+            "modified": "2021-04-14T19:29:47.2261697Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "6e4e397b-c516-4eb3-8643-1beb4bcdab8e",
+                "name": "Acrobat BOT Test",
+                "description": "Acrobat BOT Test",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:29:47.2261697Z",
+                "modified": "2021-04-14T19:29:47.2261697Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/6e4e397b-c516-4eb3-8643-1beb4bcdab8e/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "AcrobatBOTTest@bp365testgrp.bp.com",
+                    "mailAlias": "AcrobatBOTTest",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "89aa696d-f3d4-4418-b352-1c7247be4d1e",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-09-04T10:53:13.3775638Z",
+            "modified": "2020-09-04T10:53:13.3775638Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "89aa696d-f3d4-4418-b352-1c7247be4d1e",
+                "name": "G_AAD_Coffeebreak",
+                "description": "To test coffee machine bot",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-09-04T10:53:13.3775638Z",
+                "modified": "2021-04-14T19:35:59.3681586Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/89aa696d-f3d4-4418-b352-1c7247be4d1e/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "Coffeebreak@bp365testgrp.bp.com",
+                    "mailAlias": "Coffeebreak",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "34ab76df-29c8-41d8-9161-2233a6f13ceb",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-01-31T23:04:01.6183762Z",
+            "modified": "2022-01-31T23:04:01.6183762Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "34ab76df-29c8-41d8-9161-2233a6f13ceb",
+                "name": "G_AAD_MIP Auth Context",
+                "description": "G_AAD_MIP Auth Context",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-01-31T23:04:01.6183762Z",
+                "modified": "2022-01-31T23:04:01.6183762Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/34ab76df-29c8-41d8-9161-2233a6f13ceb/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_MIPAuthContext@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_MIPAuthContext",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "3f8d63c4-da7e-453e-aa8c-24f671b4be16",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2023-07-07T14:36:15.8559539Z",
+            "modified": "2023-07-07T14:36:15.8559539Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "3f8d63c4-da7e-453e-aa8c-24f671b4be16",
+                "name": "My Public Team01",
+                "description": "My Public Team01",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2023-07-07T14:36:15.8559539Z",
+                "modified": "2023-07-07T14:36:15.8559539Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/3f8d63c4-da7e-453e-aa8c-24f671b4be16/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "MyPublicTeam01@bp365testgrp.bp.com",
+                    "mailAlias": "MyPublicTeam01",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "0a456e2d-1b11-4b57-a075-25517b80348d",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2019-03-20T16:20:45.3578467Z",
+            "modified": "2019-03-20T16:20:45.3578467Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "0a456e2d-1b11-4b57-a075-25517b80348d",
+                "name": "TestPublicGroupWithoutAcess",
+                "description": "TestPublicGroupWithoutAcess",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2019-03-20T16:20:45.3578467Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/0a456e2d-1b11-4b57-a075-25517b80348d/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "TestPublicGroupWithoutAcess@bp365testgrp.bp.com",
+                    "mailAlias": "TestPublicGroupWithoutAcess",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "878adb2f-e335-498c-9b01-28bd683d6cf4",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-07-23T09:43:24.6908991Z",
+            "modified": "2021-07-23T09:43:24.6908991Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "878adb2f-e335-498c-9b01-28bd683d6cf4",
+                "name": "G_AAD_Message_Broadcast_Users",
+                "description": "G_AAD_Message_Broadcast_Users",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-07-23T09:43:24.6908991Z",
+                "modified": "2021-07-23T09:43:24.6908991Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/878adb2f-e335-498c-9b01-28bd683d6cf4/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_Message_Broadcast_Users@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_Message_Broadcast_Users",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "2e7ae23d-e212-4dee-a2c5-2a520b807722",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-05-20T13:05:30.2094524Z",
+            "modified": "2020-05-20T13:05:30.2094524Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "2e7ae23d-e212-4dee-a2c5-2a520b807722",
+                "name": "0365",
+                "description": "0365",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-05-20T13:05:30.2094524Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/2e7ae23d-e212-4dee-a2c5-2a520b807722/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "0365@bp365testgrp.bp.com",
+                    "mailAlias": "0365",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "59738d6a-fa50-4873-a4cb-2abe6bbb629c",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-12-13T12:49:06.1831895Z",
+            "modified": "2021-12-13T12:49:06.1831895Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "59738d6a-fa50-4873-a4cb-2abe6bbb629c",
+                "name": "Corporate Training Department",
+                "description": "Corporate Training Department",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-12-13T12:49:06.1831895Z",
+                "modified": "2022-01-31T23:04:01.5594739Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/59738d6a-fa50-4873-a4cb-2abe6bbb629c/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "CorporateTrainingDepartment@bp365testgrp.bp.com",
+                    "mailAlias": "CorporateTrainingDepartment",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "2ea309d7-627e-4f38-94d6-2b415785ab6b",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2019-11-27T05:59:04.9398735Z",
+            "modified": "2019-11-27T05:59:04.9398735Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "2ea309d7-627e-4f38-94d6-2b415785ab6b",
+                "name": "OneBP Authors",
+                "description": "Site Authors",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2019-11-27T05:59:04.9398735Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/2ea309d7-627e-4f38-94d6-2b415785ab6b/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "OneBPAuthors@bp365testgrp.bp.com",
+                    "mailAlias": "OneBPAuthors",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "c57e036c-421f-48fc-bba6-2cb4fab9ebe9",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-02-15T11:24:36.1530668Z",
+            "modified": "2022-02-15T11:24:36.1530668Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "c57e036c-421f-48fc-bba6-2cb4fab9ebe9",
+                "name": "Rename done",
+                "description": "CoE team testing group",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-02-15T11:24:36.1530668Z",
+                "modified": "2022-02-15T11:24:36.1530668Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/c57e036c-421f-48fc-bba6-2cb4fab9ebe9/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "renametest@bp365testgrp.bp.com",
+                    "mailAlias": "renametest",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "9e6f2e10-1e4b-4d04-8550-2d162f15a0fc",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2019-03-20T16:20:45.373943Z",
+            "modified": "2019-03-20T16:20:45.373943Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "9e6f2e10-1e4b-4d04-8550-2d162f15a0fc",
+                "name": "G_AAD_EthicsandCompliance",
+                "description": "G_AAD_EthicsandCompliance",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2019-03-20T16:20:45.373943Z",
+                "modified": "2021-04-14T19:35:59.3681586Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/9e6f2e10-1e4b-4d04-8550-2d162f15a0fc/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_EthicsandCompliance@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_EthicsandCompliance",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "5b5faa84-35e5-4d52-a18d-2de5b9615889",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "5b5faa84-35e5-4d52-a18d-2de5b9615889",
+                "name": "Grp YamGroup 2 O365",
+                "description": "Grp YamGroup 2 O365",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/5b5faa84-35e5-4d52-a18d-2de5b9615889/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "grpyamgroup2o365@bp365testgrp.bp.com",
+                    "mailAlias": "grpyamgroup2o365",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "9631229c-ce8e-4c9f-b3c8-2de884e696ae",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-07-22T16:13:43.2409986Z",
+            "modified": "2021-07-22T16:13:43.2409986Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "9631229c-ce8e-4c9f-b3c8-2de884e696ae",
+                "name": "NewTest2",
+                "description": "NewTest2",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/9631229c-ce8e-4c9f-b3c8-2de884e696ae/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "newtest2427@bp365testgrp.bp.com",
+                    "mailAlias": "newtest2427",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "306ffd91-6c32-48cf-bddb-31e6d5aed349",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-01-08T15:51:31.2323276Z",
+            "modified": "2020-01-08T15:51:31.2323276Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "306ffd91-6c32-48cf-bddb-31e6d5aed349",
+                "name": "G_AAD_G_AAD_MS Teams - Public Team - OpsCompliance (Chad Test)",
+                "description": "G_AAD_G_AAD_MS Teams - Public Team - OpsCompliance (Chad Test)",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-01-08T15:51:31.2323276Z",
+                "modified": "2021-04-14T19:35:59.0740842Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/306ffd91-6c32-48cf-bddb-31e6d5aed349/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_G_AAD_MSTeams-PublicTeam-OpsComplianceChadTest@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_G_AAD_MSTeams-PublicTeam-OpsComplianceChadTest",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "71e07097-9d6a-44de-811c-437dee315a52",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-11-15T15:41:26.545689Z",
+            "modified": "2022-11-15T15:41:26.545689Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "71e07097-9d6a-44de-811c-437dee315a52",
+                "name": "Secret group test",
+                "description": "Secret group test",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-11-15T15:41:26.545689Z",
+                "modified": "2022-11-15T15:41:26.545689Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/71e07097-9d6a-44de-811c-437dee315a52/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "Secretgrouptest@bp365testgrp.bp.com",
+                    "mailAlias": "Secretgrouptest",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "5b1b5c3d-bb7f-4e9b-b274-44297782be73",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-07-23T12:44:52.8540006Z",
+            "modified": "2021-07-23T12:44:52.8540006Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "5b1b5c3d-bb7f-4e9b-b274-44297782be73",
+                "name": "Test_COmpany_communicator",
+                "description": "testing",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-07-23T12:44:52.8540006Z",
+                "modified": "2021-07-23T12:44:52.8540006Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/5b1b5c3d-bb7f-4e9b-b274-44297782be73/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "Test_COmpany_communicator@bp365testgrp.bp.com",
+                    "mailAlias": "Test_COmpany_communicator",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "f78ce9f1-0a66-42d1-9f5b-45e32e2d1d40",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-09-15T15:17:29.4235996Z",
+            "modified": "2020-09-15T15:17:29.4235996Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "f78ce9f1-0a66-42d1-9f5b-45e32e2d1d40",
+                "name": "G_AAD_Breakout room team",
+                "description": "G_AAD_Breakout room team",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-09-15T15:17:29.4235996Z",
+                "modified": "2021-04-14T19:35:59.680659Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/f78ce9f1-0a66-42d1-9f5b-45e32e2d1d40/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_Breakoutroomteam@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_Breakoutroomteam",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "6ad69c50-f9e3-46f4-b07f-481b1acc05d4",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2023-07-12T13:18:58.8766207Z",
+            "modified": "2023-07-12T13:18:58.8766207Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "6ad69c50-f9e3-46f4-b07f-481b1acc05d4",
+                "name": "NN Sec 1207",
+                "description": "NN Sec 1207",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2023-07-12T13:18:58.8766207Z",
+                "modified": "2023-07-12T13:18:58.8766207Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/6ad69c50-f9e3-46f4-b07f-481b1acc05d4/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "NNSec1207@bp365testgrp.bp.com",
+                    "mailAlias": "NNSec1207",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "6737435b-624d-47e6-bee1-484cb80208be",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "6737435b-624d-47e6-bee1-484cb80208be",
+                "name": "B2BTestingYammeraccess",
+                "description": "B2BTestingYammeraccess",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/6737435b-624d-47e6-bee1-484cb80208be/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "b2btestingyammeraccess@bp365testgrp.bp.com",
+                    "mailAlias": "b2btestingyammeraccess",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "0c1004c4-a7b2-45c6-a35e-4b30583e3074",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "0c1004c4-a7b2-45c6-a35e-4b30583e3074",
+                "name": "YammerGroupPetchem",
+                "description": "YammerGroupPetchem",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/0c1004c4-a7b2-45c6-a35e-4b30583e3074/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "yammergrouppetchem@bp365testgrp.bp.com",
+                    "mailAlias": "yammergrouppetchem",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "0210f877-f185-4c2a-9087-4ca4b1172e86",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-06-16T10:27:28.4111636Z",
+            "modified": "2020-06-16T10:27:28.4111636Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "0210f877-f185-4c2a-9087-4ca4b1172e86",
+                "name": "G 1st MRL Teams Exception_test",
+                "description": "This group is for testing team script",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-06-16T10:27:28.4111636Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/0210f877-f185-4c2a-9087-4ca4b1172e86/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "istusers@bp365testgrp.bp.com",
+                    "mailAlias": "istusers",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "dc1105ce-86ad-4200-b310-4cf5c243c628",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-07-29T16:13:51.9099311Z",
+            "modified": "2020-07-29T16:13:51.9099311Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "dc1105ce-86ad-4200-b310-4cf5c243c628",
+                "name": "All Company",
+                "description": "This is the default group for everyone in the BP365TEST network",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-07-29T16:13:51.9099311Z",
+                "modified": "2021-04-14T19:35:59.680659Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/dc1105ce-86ad-4200-b310-4cf5c243c628/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "allcompany@bp365testgrp.bp.com",
+                    "mailAlias": "allcompany",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "3f38e722-c604-4047-8eea-522a3e902fc3",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-11-22T09:53:45.1877527Z",
+            "modified": "2022-11-22T09:53:45.1877527Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "3f38e722-c604-4047-8eea-522a3e902fc3",
+                "name": "Teams and Outlook",
+                "description": " ",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-11-22T09:53:45.1877527Z",
+                "modified": "2022-11-22T09:53:45.1877527Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/3f38e722-c604-4047-8eea-522a3e902fc3/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "TeamsandOutlook@bp365testgrp.bp.com",
+                    "mailAlias": "TeamsandOutlook",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "2baa72c0-b9ca-473d-84ea-52cd1287e4cb",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "2baa72c0-b9ca-473d-84ea-52cd1287e4cb",
+                "name": "Script Status",
+                "description": "Script Status",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/2baa72c0-b9ca-473d-84ea-52cd1287e4cb/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "ScriptStatus@bp365testgrp.bp.com",
+                    "mailAlias": "ScriptStatus",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "4b2244bb-b2b1-4fbf-b4a0-550f3100f8fe",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-12-21T15:04:05.9376964Z",
+            "modified": "2022-12-21T15:04:05.9376964Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "4b2244bb-b2b1-4fbf-b4a0-550f3100f8fe",
+                "name": "new unified group",
+                "description": "new unified group",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-12-21T15:04:05.9376964Z",
+                "modified": "2023-06-06T13:50:15.7900974Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/4b2244bb-b2b1-4fbf-b4a0-550f3100f8fe/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "newufgroup1@bp365testgrp.bp.com",
+                    "mailAlias": "newufgroup1",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "b75fb917-1e60-41d6-9a99-5598ad927838",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-10-27T06:20:02.6520285Z",
+            "modified": "2021-10-27T06:20:02.6520285Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "b75fb917-1e60-41d6-9a99-5598ad927838",
+                "name": "Set 2 - Group 3",
+                "description": "Testing Group Expiry Implementation Policy for Set 2",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-10-27T06:20:02.6520285Z",
+                "modified": "2021-10-27T06:20:02.6520285Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/b75fb917-1e60-41d6-9a99-5598ad927838/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "set2group3@bp365testgrp.bp.com",
+                    "mailAlias": "set2group3",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "004b31e4-f323-4b3b-afe8-561983e193d2",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2019-03-20T16:20:44.3103272Z",
+            "modified": "2019-03-20T16:20:44.3103272Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "004b31e4-f323-4b3b-afe8-561983e193d2",
+                "name": "TestHarmTeamsPublicSC",
+                "description": "TestHarmTeamsPublicSC",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2019-03-20T16:20:44.3103272Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/004b31e4-f323-4b3b-afe8-561983e193d2/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "TestHarmTeamsPublicSC@bp365testgrp.bp.com",
+                    "mailAlias": "TestHarmTeamsPublicSC",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "e9700b9e-1ba6-431f-9bcd-583589f8aca3",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-11-22T09:53:45.2686194Z",
+            "modified": "2022-11-22T09:53:45.2686194Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "e9700b9e-1ba6-431f-9bcd-583589f8aca3",
+                "name": "NewUniGroup2",
+                "description": "NewUniGroup2",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-11-22T09:53:45.2686194Z",
+                "modified": "2023-06-06T13:50:15.7900974Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/e9700b9e-1ba6-431f-9bcd-583589f8aca3/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "NewUniGroup2@bp365testgrp.bp.com",
+                    "mailAlias": "NewUniGroup2",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "627de6d3-8f15-49f1-a568-58730889f064",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "627de6d3-8f15-49f1-a568-58730889f064",
+                "name": "Grp YamGroup 2 O365",
+                "description": "Grp YamGroup 2 O365",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/627de6d3-8f15-49f1-a568-58730889f064/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "grpyamgroup2o365703@bp365testgrp.bp.com",
+                    "mailAlias": "grpyamgroup2o365703",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "50210655-18fe-46d1-a9a6-5a6dc8f8dd3c",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2023-09-21T12:28:40.5321438Z",
+            "modified": "2023-09-21T12:28:40.5321438Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "50210655-18fe-46d1-a9a6-5a6dc8f8dd3c",
+                "name": "Copilot CoE2",
+                "description": "Your Center of Excellence for all things Copilot including training content, Champion guidance and updates from Microsoft.",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2023-09-21T12:28:40.5321438Z",
+                "modified": "2023-09-21T12:28:40.5321438Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/50210655-18fe-46d1-a9a6-5a6dc8f8dd3c/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "CopilotCoE2@bp365testgrp.bp.com",
+                    "mailAlias": "CopilotCoE2",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "fc5cd690-aa5a-4dcc-81f8-5ff658c3ea63",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-03-28T14:53:12.5184594Z",
+            "modified": "2022-03-28T14:53:12.5184594Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "fc5cd690-aa5a-4dcc-81f8-5ff658c3ea63",
+                "name": "Yammer KB Test",
+                "description": "PoC by CoE team",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-03-28T14:53:12.5184594Z",
+                "modified": "2022-03-28T14:53:12.5184594Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/fc5cd690-aa5a-4dcc-81f8-5ff658c3ea63/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "yammerkbtest@bp365testgrp.bp.com",
+                    "mailAlias": "yammerkbtest",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "7a8c93de-f074-4fdf-a39c-6c927f1d5be9",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "7a8c93de-f074-4fdf-a39c-6c927f1d5be9",
+                "name": "TestingConnectors123",
+                "description": "TestingConnectors123",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2021-04-14T19:35:58.6033898Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/7a8c93de-f074-4fdf-a39c-6c927f1d5be9/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "testingconnectors123@bp365testgrp.bp.com",
+                    "mailAlias": "testingconnectors123",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "37045ef9-3168-42f7-981e-6cd8b66f3aea",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2022-10-31T02:48:53.785885Z",
+            "modified": "2022-10-31T02:48:53.785885Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "37045ef9-3168-42f7-981e-6cd8b66f3aea",
+                "name": "Optibot",
+                "description": "Optibot",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2022-10-31T02:48:53.785885Z",
+                "modified": "2022-10-31T02:48:53.785885Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/37045ef9-3168-42f7-981e-6cd8b66f3aea/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "Optibot@bp365testgrp.bp.com",
+                    "mailAlias": "Optibot",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "300e2d41-f88b-4b72-985b-6e4c3f818a82",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-04-14T19:35:58.6033898Z",
+            "modified": "2021-04-14T19:35:58.6033898Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "300e2d41-f88b-4b72-985b-6e4c3f818a82",
+                "name": "VikasYammerGrp",
+                "description": "VikasYammerGrp",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-04-14T19:35:58.6033898Z",
+                "modified": "2022-01-31T23:04:01.5594739Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/300e2d41-f88b-4b72-985b-6e4c3f818a82/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "vikasyammergrp@bp365testgrp.bp.com",
+                    "mailAlias": "vikasyammergrp",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "63a89406-6d5e-4c0f-a5b8-6f2777466087",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2021-07-22T14:07:50.742307Z",
+            "modified": "2021-07-22T14:07:50.742307Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "63a89406-6d5e-4c0f-a5b8-6f2777466087",
+                "name": "G_AAD_Company_comm_users",
+                "description": "users testing",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2021-07-22T14:07:50.742307Z",
+                "modified": "2021-07-22T14:07:50.742307Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/63a89406-6d5e-4c0f-a5b8-6f2777466087/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_Company_comm_users@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_Company_comm_users",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "037c1f93-7083-4ad3-9ec3-726f82480d63",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2020-03-18T13:50:57.1912128Z",
+            "modified": "2020-03-18T13:50:57.1912128Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "037c1f93-7083-4ad3-9ec3-726f82480d63",
+                "name": "G_AAD_Merge1 Textual",
+                "description": "G_AAD_Merge1 Textual",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2020-03-18T13:50:57.1912128Z",
+                "modified": "2021-04-14T19:35:58.8378837Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/037c1f93-7083-4ad3-9ec3-726f82480d63/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_Merge1Textual@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_Merge1Textual",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "127c6270-fcd7-4cf3-9a17-738b58f51418",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2023-04-05T12:45:34.1165667Z",
+            "modified": "2023-04-05T12:45:34.1165667Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "127c6270-fcd7-4cf3-9a17-738b58f51418",
+                "name": "G_AAD_testyammertest12",
+                "description": "testyammertest12",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2023-04-05T12:45:34.1165667Z",
+                "modified": "2023-04-05T12:45:34.1165667Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/127c6270-fcd7-4cf3-9a17-738b58f51418/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_testyammertest12@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_testyammertest12",
+                    "classification": null,
+                    "membersRoleId": "00000000-0000-0000-0000-000000000000"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        },
+        {
+            "id": "35766d24-24f3-40fe-b29d-74617b04430c",
+            "name": "",
+            "description": "",
+            "channelMigrationStatus": "NotStarted",
+            "redirectionUrl": null,
+            "created": "2023-02-20T09:06:58.0558111Z",
+            "modified": "2023-02-20T09:06:58.0558111Z",
+            "posterImage": null,
+            "metrics": {
+                "follows": 0,
+                "videos": 0
+            },
+            "userData": {
+                "isFollowed": false,
+                "permissions": {
+                    "canAddMediaItemsToChannel": false,
+                    "canDelete": false,
+                    "canEdit": false,
+                    "canFollowChannel": true,
+                    "canInviteUsersToChannel": true,
+                    "canView": true
+                }
+            },
+            "isDefault": true,
+            "settings": {},
+            "creator": null,
+            "group": {
+                "id": "35766d24-24f3-40fe-b29d-74617b04430c",
+                "name": "G_AAD_SensitivitySite",
+                "description": "G_AAD_SensitivitySite",
+                "groupMigrationStatus": "NotStarted",
+                "redirectionUrl": null,
+                "privacyMode": "organizationAsViewers",
+                "isDefault": false,
+                "created": "2023-02-20T09:06:58.0558111Z",
+                "modified": "2023-02-20T09:06:58.0558111Z",
+                "imageUrl": "https://euno-1-content.api.microsoftstream.com/api/tenants/b989f104-d41b-4f40-b814-1a3bfee7dbc7/groups/35766d24-24f3-40fe-b29d-74617b04430c/photo?api-version=1.3-private",
+                "aadGroup": {
+                    "mail": "G_AAD_SensitivitySite@bp365testgrp.bp.com",
+                    "mailAlias": "G_AAD_SensitivitySite",
+                    "classification": null,
+                    "membersRoleId": "c7a164f6-4b0a-401c-aa74-cb6f225aa008"
+                },
+                "metrics": {
+                    "channels": 1,
+                    "videos": 0
+                },
+                "userData": {
+                    "isMember": false,
+                    "permissions": {
+                        "canView": true,
+                        "canEdit": false,
+                        "canManageChannels": false,
+                        "canManageMediaItems": false,
+                        "canManagePrivacyMode": false,
+                        "canManageRoleAssignments": false,
+                        "canDelete": false
+                    }
+                },
+                "readOnlyMigratedContent": false
+            }
+        }
+    ]
+}
