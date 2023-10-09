@@ -10,7 +10,7 @@ $outputCSVFilePath = ".\outputChannels-$datestring.csv"
 $WebSession = New-Object Microsoft.PowerShell.Commands.WebRequestSession
 $cookies = Import-CSV $cookiesCSVFilePath
 
-$resfreshTimeOutMins = 0 
+$resfreshTimeOutMins = 15 
 
 foreach ($cookie in $cookies) {
     $newCookie = New-Object System.Net.Cookie
@@ -99,6 +99,7 @@ while ($continue -eq $true) {
 
         ## Reset the stopwatch
         $stopwatch.Reset()
+        $stopwatch.Start()
     }
 }
 
